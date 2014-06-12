@@ -1,0 +1,8 @@
+USAGE
+=====
+
+simply put the following line after the closing </body> tag or at the end of the <head> section:
+
+<script type="text/javascript" src="http://api.radiocicletta.it/player/cycle.js"></script>
+
+Have fun(k)
