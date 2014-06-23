@@ -40,7 +40,7 @@ function init(){
         var template =
         $(
             '<div id="jquery_jplayer_1" class="jp-jplayer"></div>'+
-            '<div id="jp_container_1" class="jp-audio-stream" style="position: fixed; bottom: 0px; right: 20px; z-index: 24; display: block; padding: 5px 20px; height: 0px">' +
+            '<div id="jp_container_1" class="jp-audio-stream" style="position: fixed; bottom: 0px; right: 20px; z-index: 1000; display: block; padding: 5px 20px; height: 0px">' +
             '   <div class="jp-type-single">' +
             '       <div class="jp-gui jp-interface">' +
             '           <ul class="jp-controls">' +
